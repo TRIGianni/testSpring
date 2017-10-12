@@ -1,0 +1,7 @@
+language : java
+
+deploy:
+  provider: heroku
+  api_key:
+    secure: "52230b4c-28f3-4c39-8c1f-647dff57b0ff"
+  app: test-spring-tri
